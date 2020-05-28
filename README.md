@@ -3,7 +3,7 @@ To mark answers quickly.
 
 ## Prerequisites
 
-[Python3]("https://www.python.org") must be pre-installed
+[Python3](https://www.python.org) must be pre-installed
 
 ## STEPS
 - Clone or download all three the files.
