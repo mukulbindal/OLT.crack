@@ -6,9 +6,9 @@ To mark answers quickly.
 [Python3](https://www.python.org) must be pre-installed
 
 ## STEPS
-- Clone or download all three the files.
+- Clone or download all three files.
 - Open terminal or CMD
-- Change directory to where these files are located.
+- Change current directory to where these files are located.
 ```bash
 cd /path/to/project
 ```
